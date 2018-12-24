@@ -1,4 +1,4 @@
-package brand.common.tools
+package org.chobit.jobs.common.tools
 
 import com.fasterxml.jackson.core.`type`.TypeReference
 import com.fasterxml.jackson.databind.{DeserializationFeature, ObjectMapper}

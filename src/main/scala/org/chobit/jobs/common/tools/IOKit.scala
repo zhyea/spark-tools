@@ -1,4 +1,4 @@
-package brand.common.tools
+package org.chobit.jobs.common.tools
 
 import java.io.Closeable
 

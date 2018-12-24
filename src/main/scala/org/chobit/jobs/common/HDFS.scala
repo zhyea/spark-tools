@@ -1,4 +1,4 @@
-package brand.common
+package org.chobit.jobs.common
 
 import java.io.{ByteArrayOutputStream, FilterOutputStream}
 import java.nio.charset.Charset

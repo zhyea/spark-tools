@@ -1,6 +1,6 @@
-package brand.common
+package org.chobit.jobs.common
 
-import brand.common.tools.PropKit
+import org.chobit.jobs.common.tools.PropKit
 
 /**
   * @author robin

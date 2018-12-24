@@ -1,4 +1,4 @@
-package brand.common
+package org.chobit.jobs.common
 
 import org.junit.{Assert, Test}
 

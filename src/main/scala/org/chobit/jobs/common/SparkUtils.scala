@@ -1,4 +1,4 @@
-package brand.common
+package org.chobit.jobs.common
 
 import org.apache.spark.internal.Logging
 import org.apache.spark.sql.SparkSession
